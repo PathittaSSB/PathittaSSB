@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a passionate undergraduate student of Artificial Intelligence Engineering with experience in data analysis and management. I am eager to join your team, apply my skills, and drive innovation in data and machine learning.
 
-### 🌱 Experienced Field
+### 🌱 I’m currently learning:
 - AI and Machine Learning
 - NLP
 - Image Processing
@@ -18,7 +18,7 @@ I am a passionate undergraduate student of Artificial Intelligence Engineering w
 - Operating Systems: Experienced with Linux Command Line
 - Soft Skills: Communication, Collaboration, Decision Making, Problem Solving, Time Management, Adaptability, Active Learning
 
-### 📂 Project
+### 📂 Project:
 - Reccomened Line-Chatbot 
 - Raspberry Pi Cluster
 
