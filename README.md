@@ -1,6 +1,16 @@
 ## Hi there 👋
 I am a passionate undergraduate student of Artificial Intelligence Engineering with experience in data analysis and management. I am eager to join your team, apply my skills, and drive innovation in data and machine learning.
 
+### 🌱 Experienced Field
+- AI and Machine Learning
+- NLP
+- Image Processing
+- Cluster Computing
+
+### 👯 Interested in collaborating on:
+- data analysis and machine learning.
+- Data-Driven Project
+
 ### 🛠 Skills Summary:
 - Language: Python, C++, SQL
 - Framework: Pandas, Numpy, Scikit-Learn, Pytorch, Apache Spark, Apache Hadoop
@@ -14,16 +24,6 @@ I am a passionate undergraduate student of Artificial Intelligence Engineering w
 
 ### 🖇 Blog
 - Medium: https://medium.com/@pathitta.suksomboon
-
-### 🌱 Experienced Field
-- AI and Machine Learning
-- NLP
-- Image Processing
-- Cluster Computing
-
-### 👯 Interested in collaborating on:
-- data analysis and machine learning.
-- Data-Driven Project
 
 ### 📫 How to reach me:
 - Email: pathitta.suksomboon@gmail.com
