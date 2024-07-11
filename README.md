@@ -20,7 +20,7 @@ I am a passionate undergraduate student of Artificial Intelligence Engineering w
 
 ### 📂 Project:
 - Reccomened Line-Chatbot 
-- Raspberry Pi Cluster
+- [Raspberry Pi Cluster](https://github.com/PathittaSSB/MyCluster)
 
 ### 🖇 Blog
 - Medium: https://medium.com/@pathitta.suksomboon
